@@ -3,12 +3,12 @@
     "name": "weatherApp",
     "slug": "weatherApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weather_icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#75ffef"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
